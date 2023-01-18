@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="9576" started-at="2023-01-18T13:52:05 EST" finished-at="2023-01-18T13:52:15 EST">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="9576" started-at="2023-01-18T13:52:05 EST" finished-at="2023-01-18T13:52:15 EST">
+      <class name="testcases.TestClass">
+        <test-method status="PASS" signature="beforeSetup()[pri:0, instance:testcases.TestClass@7d0587f1]" name="beforeSetup" is-config="true" duration-ms="4184" started-at="2023-01-18T13:52:05 EST" finished-at="2023-01-18T13:52:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetup -->
+        <test-method status="PASS" signature="testcase002()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase002" duration-ms="521" started-at="2023-01-18T13:52:09 EST" finished-at="2023-01-18T13:52:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase002 -->
+        <test-method status="PASS" signature="testcase003()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase003" duration-ms="34" started-at="2023-01-18T13:52:10 EST" finished-at="2023-01-18T13:52:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase003 -->
+        <test-method status="PASS" signature="testcase004()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase004" duration-ms="405" started-at="2023-01-18T13:52:10 EST" finished-at="2023-01-18T13:52:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase004 -->
+        <test-method status="PASS" signature="testcase005()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase005" duration-ms="81" started-at="2023-01-18T13:52:10 EST" finished-at="2023-01-18T13:52:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase005 -->
+        <test-method status="PASS" signature="testcase006()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase006" duration-ms="3337" started-at="2023-01-18T13:52:10 EST" finished-at="2023-01-18T13:52:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase006 -->
+        <test-method status="PASS" signature="testcase008()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase008" duration-ms="15" started-at="2023-01-18T13:52:14 EST" finished-at="2023-01-18T13:52:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase008 -->
+        <test-method status="PASS" signature="testcase009()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase009" duration-ms="148" started-at="2023-01-18T13:52:14 EST" finished-at="2023-01-18T13:52:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase009 -->
+        <test-method status="PASS" signature="testcase010()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase010" duration-ms="24" started-at="2023-01-18T13:52:14 EST" finished-at="2023-01-18T13:52:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase010 -->
+        <test-method status="PASS" signature="testcase011()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase011" duration-ms="92" started-at="2023-01-18T13:52:14 EST" finished-at="2023-01-18T13:52:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase011 -->
+        <test-method status="PASS" signature="testcase012()[pri:0, instance:testcases.TestClass@7d0587f1]" name="testcase012" duration-ms="81" started-at="2023-01-18T13:52:14 EST" finished-at="2023-01-18T13:52:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase012 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TestClass@7d0587f1]" name="tearDown" is-config="true" duration-ms="623" started-at="2023-01-18T13:52:14 EST" finished-at="2023-01-18T13:52:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TestClass -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
